@@ -52,11 +52,5 @@ A simple, real-time game built using the **ATmega328P microcontroller**. The gam
 
 ---
 
-## 📸 Gallery
 
-![Mini Car Game device](Images/device.jpg)
-
-![Game on LCD](Images/Score.jpg)
-
----
 
